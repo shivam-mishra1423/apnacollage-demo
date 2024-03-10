@@ -1,3 +1,4 @@
 # apnacollage-demo
 this is my first github repositary
-author shivam kr mishra
+<br>
+Author Shivam Kr Mishra
